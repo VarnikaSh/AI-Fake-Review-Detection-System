@@ -34,6 +34,9 @@ An AI-powered Fake Review Detection System built using NLP, Mchine Learning, and
 - SHAP Explainability
 - Real-time E-commerce Integration
 
+## Live Demo
+[Click Here to Try the App](https://ai-fake-review-detection-system-pdvg3hq5p5vvns2mabv3zc.streamlit.app/)
+
 ## Author
 Varnika Shukla
   
